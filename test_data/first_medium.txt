@@ -1,0 +1,259 @@
+s 1 1 2 4 spacewatch houten socorro plata 
+s 2 0 0 4 moon linear socorro asteroides 
+s 3 1 1 3 spacewatch plata sqcorro 
+s 4 0 0 3 houten plata spacewatch 
+s 5 0 0 4 maharaj sarada vivekananda ramakrishna 
+s 6 2 1 3 ivekananda maharaj jarada 
+s 7 1 3 5 ramakrishpa sarada vivekananda maharaj swaoi 
+s 8 0 0 3 berryman file edit 
+s 9 0 0 1 moon 
+s 10 0 0 2 plata houten 
+s 11 2 3 3 berryman edin anderusovy 
+s 12 0 0 3 socorro asteroides moon 
+s 13 0 0 1 hawea 
+s 14 1 2 3 socorro mxoo linear 
+s 15 0 0 3 maharaj sarada swami 
+s 16 0 0 3 plata socorro houten 
+s 17 1 3 1 hawea 
+s 18 2 1 2 grebe hawea 
+s 19 2 3 1 nlatk 
+s 20 2 1 3 houten moopn asteroides 
+s 21 0 0 5 linear moon asteroides socorro houten 
+s 22 0 0 2 berryman edit 
+s 23 1 3 1 smiljanich 
+s 24 1 3 3 socorro asteroides uohl 
+s 25 2 2 5 houten secorrzo atperoides moon linear 
+s 26 1 3 1 sceptie 
+s 27 2 3 3 linear mobnv hofwuten 
+s 28 2 3 4 houten asturoides sdolon socorro 
+s 29 2 2 2 asteroides moon 
+s 30 1 3 4 biuear moon hkuven socorro 
+s 31 2 2 4 ramakrishna vvekknanda savrada zmaharac 
+s 32 0 0 3 maharaj vivekananda sarada 
+s 33 2 3 1 plaa 
+s 34 2 1 2 plata houten 
+s 35 2 1 3 sarada vivekananda maharwaj 
+s 36 0 0 1 sceptre 
+s 37 1 1 2 andersoy berryman 
+s 38 2 3 3 socporro houcmen plata 
+s 39 2 1 2 hguten moon 
+s 40 2 3 2 scyaceptre bulh 
+s 41 2 3 3 iile andersfon berryman 
+s 42 2 3 3 berryqgan edit rile 
+s 43 0 0 3 sarada maharaj swami 
+s 44 0 0 4 houten plata spacewatch socorro 
+s 45 1 3 2 plhta spacewatch 
+s 46 0 0 1 hawea 
+s 47 1 3 2 astzroidzs moon 
+s 48 1 3 3 hzugxn spacewutch pltxc 
+s 49 2 1 5 sarada maharaj vivekannda ramakrishna swamp 
+s 50 1 2 3 swapi vivekananda sarada 
+s 51 2 3 5 swayei mahajaj surjada raarishna vivekananda 
+s 52 0 0 4 sarada vivekananda ramakrishna maharaj 
+s 53 0 0 1 sarada 
+s 54 1 1 4 smcorro winear houten moon 
+s 55 1 1 4 swaki vivekananda sarasa rpmakrishna 
+s 56 2 3 3 houtksn uoqon asteroxides 
+s 57 2 3 1 ssmimleanich 
+s 58 2 3 1 paturn 
+s 59 0 0 3 swami sarada ramakrishna 
+s 60 2 3 2 beijyma edqtg 
+s 61 2 2 4 file berryza edit awndetrson 
+s 62 1 3 2 scepvre bmxn 
+s 63 1 2 3 houvrn moon linqar 
+s 64 1 3 3 varxpa swafi ramakkishna 
+s 65 1 1 1 smiljnnich 
+s 66 1 1 3 sarada ramakrishna vivekananda 
+s 67 2 3 2 sklrad ramarishna 
+s 68 0 0 4 houten socorro asteroides moon 
+s 69 0 0 4 linear moon houten socorro 
+s 70 2 1 4 sarada sami maharaj vivekananda 
+s 71 0 0 2 hawea grebe 
+s 72 2 1 2 linear moon 
+s 73 1 2 1 berrymag 
+s 74 1 2 4 berryman fule edit anderson 
+s 75 2 1 3 qfile berryban ediat 
+s 76 2 2 2 hoeten moon 
+s 77 1 1 5 ramakrishna sxami sarada vivekananda mpharaj 
+s 78 1 3 3 andurson diia berrzmkn 
+s 79 2 1 3 socorro plata houten 
+s 80 0 0 1 sarada 
+s 81 0 0 2 grebe hawea 
+s 82 0 0 3 swami sarada maharaj 
+s 83 1 3 2 spacewatch platu 
+s 84 1 1 1 sclptre 
+s 85 0 0 4 maharaj swami sarada vivekananda 
+s 86 2 3 3 andherson file brryman 
+s 87 2 3 3 soicorro linexar moon 
+s 88 1 2 2 bereymdn anderson 
+s 89 0 0 4 houten socorro plata spacewatch 
+s 90 0 0 3 swami vivekananda sarada 
+s 91 1 2 1 swiajanich 
+s 92 1 2 3 edit uile eerryman 
+s 93 2 2 2 socorro lata 
+s 94 2 2 4 vivekanandpa sbamih sakada ramakrishna 
+s 95 2 2 4 liear maon houtenq qocorro 
+s 96 2 1 3 amakrishna sarada swami 
+s 97 2 2 3 ramkrishna sarada vivpkananda 
+s 98 1 3 4 vibekananda ramrkxiuhna daraka maiaraj 
+s 99 1 1 1 smiljanich 
+s 100 2 3 2 vioekatknanda arada 
+s 101 2 3 3 sarada ramakrishna mahaprat 
+s 102 0 0 3 sarada swami vivekananda 
+s 103 0 0 5 moon asteroides houten linear socorro 
+s 104 1 2 4 linell hoeren moon sdcorro 
+s 105 2 2 3 vivekananda ramarishnv sarada 
+s 106 1 1 4 swami ramakrishna saraza vivwkananda 
+s 107 2 1 3 socorro plata spacewatch 
+s 108 2 1 1 plagta 
+s 109 2 2 4 ramakrisanka swami vivekananda lsarada 
+s 110 2 3 2 ziey bedryan 
+s 111 1 2 4 lajakrishna garata snsmi vivekananda 
+s 112 0 0 2 vivekananda sarada 
+s 113 0 0 4 asteroides linear socorro moon 
+s 114 2 3 3 edit andrqon bipyryman 
+s 115 0 0 4 asteroides socorro linear moon 
+s 116 0 0 1 moon 
+s 117 0 0 3 bull sceptre edit 
+s 118 0 0 2 plata socorro 
+s 119 0 0 2 vivekananda sarada 
+s 120 1 1 5 scrada ramakrishna swemi vivekananda mgharaj 
+s 121 1 1 2 plato socorro 
+s 122 1 1 4 andeqson file berryman edvt 
+s 123 1 1 3 moon linear houten 
+s 124 1 3 2 bzrrymin anderson 
+s 125 1 2 2 file chstamt 
+s 126 1 2 2 spacewahch plata 
+s 127 0 0 2 file chstadt 
+s 128 1 3 2 swami uiryda 
+s 129 2 1 3 sarada vivekananda maharaj 
+s 130 0 0 3 ramakrishna sarada swami 
+s 131 1 2 3 sarada maharax vivekananka 
+s 132 1 3 2 ramaorisanv xaawda 
+s 133 1 3 1 walanaui 
+s 134 1 2 1 berryman 
+s 135 1 2 2 solorro plata 
+s 136 2 2 3 vivgkananda swami sarada 
+s 137 1 1 4 fole anderswn wdit berryman 
+s 138 0 0 2 houten moon 
+s 139 0 0 3 hawea grebe edit 
+s 140 2 1 3 sarada ramakrishnda vivekananda 
+s 141 1 3 4 asdernon rdkf derrymax xifj 
+s 142 1 1 1 chstvdt 
+s 143 0 0 3 sarada vivekananda maharaj 
+s 144 2 3 1 sara 
+s 145 2 2 1 wartmaug 
+s 146 1 1 1 moon 
+s 147 1 3 3 socorro asteroides moru 
+s 148 1 2 3 hjuten ptara socorro 
+s 149 0 0 3 vivekananda sarada ramakrishna 
+s 150 2 2 3 asteroidel socorro moon 
+s 151 1 3 4 ramakrishna swamx vivekananda tafadw 
+s 152 2 3 4 edit file errman andersozn 
+s 153 2 3 2 berryman sndersont 
+s 154 2 1 3 berryman edit filz 
+s 155 1 1 2 moin lhnear 
+s 156 0 0 1 plata 
+s 157 1 2 1 moon 
+s 158 1 3 1 amiljrnich 
+s 159 2 2 2 berriyman file 
+s 160 0 0 3 file berryman anderson 
+s 161 0 0 3 berryman anderson edit 
+s 162 0 0 3 file berryman edit 
+s 163 2 1 3 moon hlouten linear 
+s 164 1 3 3 racakrimrna laraga vivykvnajda 
+s 165 1 1 3 maharaj swami saradw 
+s 166 2 2 1 saradoa 
+s 167 1 2 4 saoada vivekananda ramakrishna maharzm 
+s 168 1 1 2 hawea grebe 
+s 169 1 2 4 sacaxa mahadnj swama viuekananea 
+s 170 2 1 2 socorro pattern 
+s 171 1 2 3 socorro spacewatch psara 
+s 172 1 3 3 sotoerr asteroihes foiy 
+s 173 0 0 5 sarada ramakrishna swami vivekananda maharaj 
+s 174 2 3 1 cstdt 
+s 175 2 2 1 smiljanich 
+s 176 0 0 1 berryman 
+s 177 1 3 4 hyspen sopofrn moon linoaw 
+s 178 2 1 1 smiljanhch 
+s 179 0 0 4 ramakrishna sarada maharaj swami 
+s 180 1 3 3 pivekanaoqa xpati srrcdx 
+s 181 2 2 4 houten gocordro plat spacecwatch 
+s 182 0 0 3 bull sceptre edit 
+s 183 0 0 2 plata spacewatch 
+s 184 0 0 2 edit sceptre 
+s 185 0 0 3 file anderson berryman 
+s 186 1 1 2 chstadt file 
+s 187 1 3 3 mlcqa spzcewasck socotro 
+s 188 0 0 2 houten plata 
+s 189 0 0 1 berryman 
+s 190 1 3 3 sayada vivekananda spamg 
+s 191 0 0 3 socorro linear moon 
+s 192 0 0 2 linear moon 
+s 193 2 2 3 gawea fgnrebe eqitg 
+s 194 1 2 4 vivesanauda sarawa swami fanaraj 
+s 195 1 3 3 plazs spacewatcy socorro 
+s 196 0 0 1 moon 
+s 197 2 2 2 houvten moon 
+s 198 2 1 2 sceprre bull 
+s 199 2 3 3 vivkkanana switmi aradap 
+s 200 1 3 2 socnrro vattqin 
+s 201 1 3 3 spucewytch sodorro plata 
+s 202 1 3 3 syradk bagaray vivekananda 
+s 203 2 1 1 pattern 
+s 204 0 0 2 grebe hawea 
+s 205 0 0 3 moon linear asteroides 
+s 206 0 0 2 grebe hawea 
+s 207 0 0 2 moon houten 
+s 208 0 0 3 berryman file edit 
+s 209 2 1 1 aawea 
+s 210 2 3 3 wami vivekanapdt saradau 
+s 211 0 0 2 edit sceptre 
+s 212 1 2 2 edft sceatre 
+s 213 1 1 2 sagada rumakrishna 
+s 214 1 1 3 sceptre bull edit 
+s 215 2 3 2 sarha racakrishna 
+s 216 2 1 4 spacewath houten ocorro pata 
+s 217 0 0 2 sarada maharaj 
+s 218 2 1 3 raakrishna sarada vivemkananda 
+s 219 2 2 2 houten plaua 
+s 220 2 2 3 hawa enit grebe 
+s 221 2 1 4 houten moon asteroides linea 
+s 222 1 3 5 ccon linear asherordes jvcorro hognej 
+s 223 0 0 2 asteroides moon 
+s 224 2 3 3 sarlada ramakxriha vqveananda 
+s 225 2 2 2 sceptre bulv 
+s 226 1 2 1 naptern 
+s 227 2 3 4 bmaharaoja sarada vveknand ramakrixshna 
+s 228 1 2 4 asteroides kohn hoksen sicorrc 
+s 229 1 2 4 bfrryman fiqe anderson afit 
+s 230 2 1 2 sarada maharj 
+s 231 2 1 4 socorro linear houten moon 
+s 232 2 1 2 berryman andrson 
+s 233 0 0 4 moon linear socorro asteroides 
+s 234 2 3 3 soforro linear moon 
+s 235 0 0 3 vivekananda sarada ramakrishna 
+s 236 2 2 4 maarar sara vkivekananda raemakrishna 
+s 237 2 2 4 houtln ocorro spoacezwatch plyaa 
+s 238 2 1 4 swmi vivekajnanda sarad ramakrishna 
+s 239 1 1 3 plata houtej socorro 
+s 240 1 1 2 anderson herryman 
+s 241 1 2 4 savada swami mahvraj vivekananda 
+s 242 2 2 3 groibe beddit hawe 
+s 243 1 3 4 csteboides ligeah soqoreo covn 
+s 244 2 1 3 vivekananda mahjaraj saada 
+s 245 2 2 4 asterorides socoqro lmoon linear 
+s 246 2 3 1 sarada 
+s 247 2 3 2 vplata socororo 
+s 248 1 2 1 sarada 
+s 249 0 0 3 sarada ramakrishna vivekananda 
+s 250 1 3 3 psata spacewxtch houten 
+s 251 2 1 2 berryman anderson 
+s 252 1 1 1 moon 
+s 253 1 2 2 sceatre bull 
+s 254 1 3 3 pfztr sfsyrro houten 
+s 255 1 2 5 ramaknishna viveknnanda smradz lahnraj lwami 
+s 256 2 3 2 lineuar moon 
+m 1 281 http dbpedia resource social gospel http dbpedia ontology abstract social gospel movement protestant christian intellectual movement that most prominent early century movement applied christian ethics social problems especially social justice inequality liquor crime racial tensions slums hygiene child labor weak labor unions poor schools danger theologically social gospel leaders were overwhelmingly post millennialist that because they believed second coming could happen until humankind itself social evils human effort social gospel leaders were predominantly associated with liberal wing progressive movement most were theologically liberal although they were typically conservative when came their views social issues important leaders include richard washington gladden walter rauschenbusch although most scholars agree that social gospel movement peaked early century there disagreement over when movement began decline with some asserting that destruction trauma caused world left many disillusioned with social gospel ideals while others argue that world actually stimulated social gospelers reform efforts theories regarding decline social gospel after world often cite rise orthodoxy contributing factor movement decline some believe that many social gospel ideas reappeared civil rights movement social gospel principles continue inspire newer movements such christians against poverty part series articles christianitysocial christianityfile christian cross svgmajor figuresfrancis assisi wilhelm ketteler pope xiii adolph kolping edward bellamy margaret wedgwood benn phillip berryman james cone dorothy toni negri tolstoy oscar romero gustavo guti rrez abraham kuyper daniel berrigan philip berrigan martin luther king walter rauschenbusch desmond tutu tommy christian trade unions catholic worker movement christian socialist movementkey conceptssubsidiarity christian anarchism marxism liberation theology praxis school precarity human dignity social market economy communitarianism distributism catholic social teaching calvinism thomismkey documentsrerum novarum princeton stone lectures populorum progressio centesimus annus caritas veritate file christianity christianity portalv http wikipedia wiki social gospel
+r 1 18 17 19 27 33 42 58 73 76 110 134 144 157 159 174 176 189 246 256
+e

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="90">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>cache_structures.h</itemPath>
+      <itemPath>core.h</itemPath>
+      <itemPath>data_structures.h</itemPath>
+      <itemPath>defn.h</itemPath>
+      <itemPath>defn_impl.h</itemPath>
+      <itemPath>hash_table_func.h</itemPath>
+      <itemPath>hashing_func.h</itemPath>
+      <itemPath>index.h</itemPath>
+      <itemPath>index_impl.h</itemPath>
+      <itemPath>job_structs.h</itemPath>
+      <itemPath>my_cache_func.h</itemPath>
+      <itemPath>my_core_func.h</itemPath>
+      <itemPath>my_index_func.h</itemPath>
+      <itemPath>thread_func.h</itemPath>
+      <itemPath>threads.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>core_impl.c</itemPath>
+      <itemPath>defn_impl.c</itemPath>
+      <itemPath>hash_table_func.c</itemPath>
+      <itemPath>index_impl.c</itemPath>
+      <itemPath>index_test_main.c</itemPath>
+      <itemPath>my_cache_func.c</itemPath>
+      <itemPath>my_core_func.c</itemPath>
+      <itemPath>test_data_main.c</itemPath>
+      <itemPath>test_main.c</itemPath>
+      <itemPath>threads_func.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibStdlibItem>Mathematics</linkerLibStdlibItem>
+            <linkerLibStdlibItem>PosixThreads</linkerLibStdlibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="cache_structures.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="core.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="core_impl.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="data_structures.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defn.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defn_impl.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="defn_impl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hash_table_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hash_table_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hashing_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="index.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="index_impl.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="index_impl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="index_test_main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="job_structs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="my_cache_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="my_cache_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="my_core_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="my_core_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="my_index_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_data_main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="test_main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="thread_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="threads.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="threads_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="cache_structures.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="core.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="core_impl.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="data_structures.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defn.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="defn_impl.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="defn_impl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hash_table_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hash_table_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hashing_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="index.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="index_impl.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="index_impl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="index_test_main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="job_structs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="my_cache_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="my_cache_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="my_core_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="my_core_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="my_index_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test_data_main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="test_main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="thread_func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="threads.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="threads_func.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
